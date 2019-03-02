@@ -1,0 +1,32 @@
+div#wlo{
+	color: red;
+	height: 150px;
+	border: 2px solid blue;
+	text-align: center;
+	line-height: 150px;
+}
+div#menu{
+	color: green;
+	height: 100px;
+	border: 2px solid red;
+	text-align: center;
+	line-height: 100px;
+}
+div#content{
+	color: blue;
+	height: 300px;
+	border: 2px solid blue;
+	line-height: 300px;
+	text-align: center;
+}
+div#footer{
+	color: red;
+	height: 100px;
+	border: 2px solid red;
+	line-height: 100px;
+	text-align: center;
+}
+body{
+	border: 2px solid red;
+	size: 700px;
+}
