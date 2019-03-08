@@ -1,0 +1,16 @@
+
+#box1{
+	border: 1px dotted red;
+	margin: 10px;
+	padding: 10px;
+}
+#box2{
+	border: 1px dotted red;
+	padding: 10px; 
+	margin: 10px;
+}
+body{
+	border: 1px solid red;
+	margin: 10px;
+}
+
